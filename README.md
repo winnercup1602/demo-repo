@@ -1,3 +1,3 @@
 # demo-repo
 
-this is description. 
+this is fixed description.
